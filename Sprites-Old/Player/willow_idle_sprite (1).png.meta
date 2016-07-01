@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 724468a3dcfec6247ad6d6f315702d9b
+timeCreated: 1466169063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: willow_idle_sprite (1)_0
+    21300002: willow_idle_sprite (1)_1
+    21300004: willow_idle_sprite (1)_2
+    21300006: willow_idle_sprite (1)_3
+    21300008: willow_idle_sprite (1)_4
+    21300010: willow_idle_sprite (1)_5
+    21300012: willow_idle_sprite (1)_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: willow_idle_sprite (1)_0
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 138
+        width: 84
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 67}
+        - {x: 13, y: 61}
+        - {x: 12, y: 57}
+        - {x: 13, y: 61}
+        - {x: 12, y: 64}
+        - {x: 9, y: 64}
+        - {x: 8, y: 69}
+        - {x: 7, y: 77}
+        - {x: 4, y: 81}
+        - {x: -27, y: 81}
+        - {x: -30, y: 70}
+        - {x: -30, y: -81}
+        - {x: 35, y: -81}
+        - {x: 42, y: -72}
+        - {x: 42, y: 44}
+        - {x: 23, y: 70}
+      - - {x: -34, y: 2}
+        - {x: -31, y: 3}
+        - {x: -31, y: 6}
+        - {x: -34, y: 7}
+        - {x: -36, y: 5}
+      - - {x: -25, y: 50}
+        - {x: -22, y: 48}
+        - {x: -20, y: 48}
+        - {x: -18, y: 50}
+        - {x: -20, y: 55}
+        - {x: -23, y: 55}
+        - {x: -25, y: 53}
+    - name: willow_idle_sprite (1)_1
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 138
+        width: 84
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 81}
+        - {x: -20, y: 81}
+        - {x: -30, y: 54}
+        - {x: -30, y: -81}
+        - {x: 37, y: -81}
+        - {x: 37, y: 42}
+        - {x: 23, y: 57}
+      - - {x: -34, y: 1}
+        - {x: -31, y: 2}
+        - {x: -31, y: 5}
+        - {x: -34, y: 6}
+        - {x: -36, y: 4}
+      - - {x: -37, y: 17}
+        - {x: -35, y: 15}
+        - {x: -32, y: 16}
+        - {x: -32, y: 19}
+        - {x: -34, y: 21}
+        - {x: -37, y: 20}
+    - name: willow_idle_sprite (1)_2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 139
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -31}
+        - {x: 30, y: 71}
+        - {x: 18, y: 81}
+        - {x: -5, y: 81}
+        - {x: -30, y: 70}
+        - {x: -30, y: -74}
+        - {x: -27, y: -81}
+        - {x: 32, y: -81}
+        - {x: 35, y: -76}
+        - {x: 37, y: -72}
+        - {x: 37, y: -40}
+      - - {x: -34, y: 2}
+        - {x: -31, y: 3}
+        - {x: -31, y: 6}
+        - {x: -34, y: 7}
+        - {x: -36, y: 5}
+    - name: willow_idle_sprite (1)_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 139
+        width: 76
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 75}
+        - {x: -3, y: 75}
+        - {x: -6, y: 73}
+        - {x: -22, y: 61}
+        - {x: -31, y: 41}
+        - {x: -31, y: -78}
+        - {x: -28, y: -81}
+        - {x: 33, y: -81}
+        - {x: 36, y: -74}
+        - {x: 36, y: -7}
+        - {x: 29, y: 56}
+      - - {x: -35, y: 1}
+        - {x: -32, y: 2}
+        - {x: -32, y: 5}
+        - {x: -35, y: 6}
+        - {x: -37, y: 4}
+    - name: willow_idle_sprite (1)_4
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 139
+        width: 85
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 80}
+        - {x: -30.5, y: 70}
+        - {x: -30.5, y: -81}
+        - {x: 36.5, y: -81}
+        - {x: 36.5, y: 25}
+        - {x: 32.5, y: 71}
+        - {x: 19.5, y: 80}
+      - - {x: -35.5, y: -1}
+        - {x: -32.5, y: 0}
+        - {x: -32.5, y: 3}
+        - {x: -35.5, y: 4}
+        - {x: -37.5, y: 2}
+    - name: willow_idle_sprite (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 139
+        width: 84
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 81}
+        - {x: -22, y: 81}
+        - {x: -31, y: 58}
+        - {x: -31, y: -81}
+        - {x: 35, y: -81}
+        - {x: 36, y: -80}
+        - {x: 36, y: -24}
+        - {x: 23, y: 59}
+      - - {x: -35, y: 2}
+        - {x: -32, y: 3}
+        - {x: -32, y: 6}
+        - {x: -35, y: 7}
+        - {x: -37, y: 5}
+    - name: willow_idle_sprite (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 139
+        width: 76
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 69}
+        - {x: 15, y: 64}
+        - {x: 12, y: 59}
+        - {x: 11, y: 55}
+        - {x: 12, y: 59}
+        - {x: 11, y: 62}
+        - {x: 11, y: 80}
+        - {x: -5, y: 80}
+        - {x: -19, y: 77}
+        - {x: -31, y: 71}
+        - {x: -31, y: -81}
+        - {x: 35, y: -81}
+        - {x: 38, y: -70}
+        - {x: 38, y: 28}
+        - {x: 27, y: 67}
+      - - {x: -38, y: 3}
+        - {x: -37, y: 2}
+        - {x: -34, y: 3}
+        - {x: -34, y: 6}
+        - {x: -37, y: 7}
+        - {x: -38, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

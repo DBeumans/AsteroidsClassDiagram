@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 8735cfacf5d087042a6c02186f1efac6
+timeCreated: 1466077163
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WIllow_Run_sprite_kleiner_0
+    21300002: WIllow_Run_sprite_kleiner_1
+    21300004: WIllow_Run_sprite_kleiner_2
+    21300006: WIllow_Run_sprite_kleiner_3
+    21300008: WIllow_Run_sprite_kleiner_4
+    21300010: WIllow_Run_sprite_kleiner_6
+    21300012: WIllow_Run_sprite_kleiner_7
+    21300014: WIllow_Run_sprite_kleiner_8
+    21300016: WIllow_Run_sprite_kleiner_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WIllow_Run_sprite_kleiner_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 18
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 52.5}
+        - {x: -29, y: -49.5}
+        - {x: -26, y: -52.5}
+        - {x: 10, y: -52.5}
+        - {x: 29, y: -35.5}
+        - {x: 29, y: 49.5}
+        - {x: 28, y: 52.5}
+    - name: WIllow_Run_sprite_kleiner_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 17
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 52.5}
+        - {x: -29, y: -49.5}
+        - {x: -28, y: -52.5}
+        - {x: 17, y: -52.5}
+        - {x: 29, y: -12.5}
+        - {x: 29, y: 52.5}
+    - name: WIllow_Run_sprite_kleiner_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 54}
+        - {x: -32, y: 51}
+        - {x: -32, y: 24}
+        - {x: -29, y: 17}
+        - {x: -18, y: 15}
+        - {x: -28, y: 2}
+        - {x: -32, y: -13}
+        - {x: -32, y: -38}
+        - {x: -28, y: -41}
+        - {x: -13, y: -40}
+        - {x: -6, y: -37}
+        - {x: -11, y: -42}
+        - {x: -2, y: -54}
+        - {x: 23, y: -54}
+        - {x: 32, y: -31}
+        - {x: 32, y: 49}
+        - {x: 19, y: 54}
+      - - {x: -18, y: -47}
+        - {x: -15, y: -45}
+        - {x: -17, y: -40}
+        - {x: -20, y: -40}
+        - {x: -21, y: -43}
+    - name: WIllow_Run_sprite_kleiner_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 55}
+        - {x: -29.5, y: 54}
+        - {x: -29.5, y: -55}
+        - {x: 17.5, y: -55}
+        - {x: 29.5, y: -39}
+        - {x: 29.5, y: 55}
+      - - {x: 8.5, y: -55}
+        - {x: 15.5, y: -55}
+        - {x: 15.5, y: -53}
+        - {x: 12.5, y: -49}
+        - {x: 9.5, y: -50}
+    - name: WIllow_Run_sprite_kleiner_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 54}
+        - {x: -29.5, y: -42}
+        - {x: -16.5, y: -54}
+        - {x: 25.5, y: -54}
+        - {x: 29.5, y: -46}
+        - {x: 29.5, y: 52}
+        - {x: 18.5, y: 54}
+      - - {x: 8.5, y: -54}
+        - {x: 15.5, y: -54}
+        - {x: 15.5, y: -52}
+        - {x: 13.5, y: -50}
+        - {x: 8.5, y: -52}
+    - name: WIllow_Run_sprite_kleiner_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 16
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -49}
+        - {x: -4.5, y: -51}
+        - {x: -4.5, y: -53}
+        - {x: -3.5, y: -54}
+        - {x: 5.5, y: -54}
+        - {x: 5.5, y: -49}
+      - - {x: -29.5, y: 54}
+        - {x: -29.5, y: -52}
+        - {x: -21.5, y: -51}
+        - {x: -15.5, y: -48}
+        - {x: 5.5, y: -54}
+        - {x: 28.5, y: -54}
+        - {x: 29.5, y: -53}
+        - {x: 29.5, y: 54}
+      - - {x: -7.5, y: -40}
+        - {x: -8.5, y: -43}
+        - {x: -8.5, y: -47}
+        - {x: -4.5, y: -49}
+        - {x: -1.5, y: -49}
+        - {x: 0.5, y: -48}
+        - {x: 1.5, y: -45}
+        - {x: 1.5, y: -41}
+        - {x: -1.5, y: -40}
+    - name: WIllow_Run_sprite_kleiner_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 15
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 54.5}
+        - {x: -29, y: 54.5}
+        - {x: -29, y: -54.5}
+        - {x: 29, y: -54.5}
+        - {x: 29, y: 47.5}
+        - {x: 24, y: 53.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

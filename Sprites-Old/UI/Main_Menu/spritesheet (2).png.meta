@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 70d8ab3acc203e7419c025eb8d9c1971
+timeCreated: 1465606428
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet (2)_0
+    21300002: spritesheet (2)_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 642
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -217.5}
+        - {x: -11, y: -215.5}
+        - {x: -11, y: -214.5}
+        - {x: 28, y: -215.5}
+        - {x: 45, y: -223.5}
+        - {x: 56, y: -234.5}
+        - {x: 104, y: -234.5}
+        - {x: 109, y: -230.5}
+        - {x: 112, y: -214.5}
+        - {x: 262, y: -214.5}
+        - {x: 263, y: -215.5}
+        - {x: 290, y: -222.5}
+        - {x: 296, y: -228.5}
+        - {x: 308, y: -233.5}
+        - {x: 314, y: -233.5}
+        - {x: 321, y: -229.5}
+        - {x: 321, y: -210.5}
+        - {x: 314, y: -199.5}
+        - {x: 306, y: -160.5}
+        - {x: 305, y: -160.5}
+        - {x: 305, y: 158.5}
+        - {x: 308, y: 162.5}
+        - {x: 309, y: 173.5}
+        - {x: 300, y: 183.5}
+        - {x: 278, y: 180.5}
+        - {x: 238, y: 201.5}
+        - {x: 227, y: 201.5}
+        - {x: 221, y: 199.5}
+        - {x: 218, y: 185.5}
+        - {x: 216, y: 180.5}
+        - {x: 190, y: 179.5}
+        - {x: 184, y: 184.5}
+        - {x: 176, y: 188.5}
+        - {x: 156, y: 187.5}
+        - {x: 146, y: 185.5}
+        - {x: 129, y: 180.5}
+        - {x: 108, y: 187.5}
+        - {x: 88, y: 186.5}
+        - {x: 70, y: 179.5}
+        - {x: 45, y: 181.5}
+        - {x: 26, y: 186.5}
+        - {x: 10, y: 187.5}
+        - {x: -32, y: 186.5}
+        - {x: -45, y: 181.5}
+        - {x: -65, y: 179.5}
+        - {x: -88, y: 185.5}
+        - {x: -93, y: 186.5}
+        - {x: -109, y: 186.5}
+        - {x: -117, y: 184.5}
+        - {x: -125, y: 181.5}
+        - {x: -148, y: 186.5}
+        - {x: -155, y: 187.5}
+        - {x: -176, y: 187.5}
+        - {x: -182, y: 185.5}
+        - {x: -188, y: 182.5}
+        - {x: -190, y: 179.5}
+        - {x: -216, y: 180.5}
+        - {x: -220, y: 196.5}
+        - {x: -226, y: 201.5}
+        - {x: -237, y: 201.5}
+        - {x: -256, y: 192.5}
+        - {x: -284, y: 179.5}
+        - {x: -289, y: 184.5}
+        - {x: -307, y: 182.5}
+        - {x: -310, y: 161.5}
+        - {x: -305, y: 158.5}
+        - {x: -305, y: -159.5}
+        - {x: -306, y: -160.5}
+        - {x: -313, y: -198.5}
+        - {x: -321, y: -211.5}
+        - {x: -321, y: -230.5}
+        - {x: -308, y: -234.5}
+        - {x: -298, y: -230.5}
+        - {x: -274, y: -215.5}
+        - {x: -263, y: -215.5}
+        - {x: -262, y: -214.5}
+        - {x: -96, y: -214.5}
+        - {x: -95, y: -215.5}
+        - {x: -94, y: -227.5}
+        - {x: -89, y: -234.5}
+        - {x: -40, y: -234.5}
+      - - {x: 24, y: 234.5}
+        - {x: 21, y: 230.5}
+        - {x: 10, y: 234.5}
+        - {x: -11, y: 234.5}
+        - {x: -17, y: 226.5}
+        - {x: -30, y: 234.5}
+        - {x: -50, y: 234.5}
+        - {x: -54, y: 228.5}
+        - {x: -54, y: 201.5}
+        - {x: -49, y: 195.5}
+        - {x: -48, y: 194.5}
+        - {x: 49, y: 194.5}
+        - {x: 53, y: 199.5}
+        - {x: 53, y: 219.5}
+        - {x: 39, y: 234.5}
+    - name: spritesheet (2)_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 192
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 36}
+        - {x: -62, y: -36}
+        - {x: 56, y: -36}
+        - {x: 60, y: -29}
+        - {x: 60, y: 0}
+        - {x: 43, y: 36}
+      - - {x: -96, y: -4}
+        - {x: -96, y: -23}
+        - {x: -95, y: -24}
+        - {x: -69, y: -24}
+        - {x: -68, y: -19}
+        - {x: -68, y: -6}
+        - {x: -73, y: -4}
+      - - {x: 68, y: -4}
+        - {x: 67, y: -8}
+        - {x: 67, y: -23}
+        - {x: 69, y: -24}
+        - {x: 93, y: -24}
+        - {x: 96, y: -23}
+        - {x: 96, y: -8}
+        - {x: 95, y: -4}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
